@@ -1,0 +1,5 @@
+principal = int(input("Enter the principal value:-"))
+intrest = int(input("Enter the intrest value:-"))
+time = int(input("Enter the time value:-"))
+simple_intrest = (principal*intrest*time)
+print(simple_intrest)
